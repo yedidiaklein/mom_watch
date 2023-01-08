@@ -240,3 +240,11 @@ html {
   box-shadow: 0 0 10px #000 inset;
   padding: 2px 20px;
 }
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
