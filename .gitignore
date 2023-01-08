@@ -1,4 +1,6 @@
 config.json
 images/*
+settings.ini
+wsgi.py
 
 
